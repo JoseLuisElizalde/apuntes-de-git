@@ -1,5 +1,10 @@
 
 
+###Zonas de Git
+Zona 1: Directorio de trabajo
+Zona 2: Área de preparación
+Zona 3: Directorio Git
+
 ###Configurando GFit por primera vez
 
 git config --global user.name "JoseLuis" /*Configura nombre de usuario*/
@@ -23,5 +28,8 @@ git commit -m "mensaje"
 
 git log - ver confirmaciones o commits hechos
 
-git diff - Muestra las diferencias entre lo que esta en el directorio de trabajo vs lo ya confirmado
+git diff /* Muestra las diferencias entre lo que esta en el directorio de trabajo vs lo ya confirmado*/
 
+git diff --staged /*Diferencia entre lo que modificamos y lo que esta en preparación*/
+
+git commit -m "mensaje"
