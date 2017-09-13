@@ -1,4 +1,6 @@
+### Curso Git 
 
+Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
 ###Zonas de Git
 Zona 1: Directorio de trabajo
@@ -33,3 +35,8 @@ git diff /* Muestra las diferencias entre lo que esta en el directorio de trabaj
 git diff --staged /*Diferencia entre lo que modificamos y lo que esta en preparación*/
 
 git commit -m "mensaje"
+
+git add .    /*Agregar todos los archivos*/
+
+git reset HEAD readme.md  /*regresar a el directorio de trabajo*/
+
