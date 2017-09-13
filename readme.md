@@ -42,3 +42,8 @@ git reset HEAD readme.md  /*regresar a el directorio de trabajo*/
 
 git add -A  /*Agregar todos los archivos en el espacio de trabajo y que se esten siguiendo*/
 
+git commit --amend  /*Cambiar mensaje en commit*/
+
+git log --oneline /*Muestra los commits en una línea*/
+
+	
