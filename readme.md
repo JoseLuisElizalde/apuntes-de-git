@@ -40,3 +40,5 @@ git add .    /*Agregar todos los archivos*/
 
 git reset HEAD readme.md  /*regresar a el directorio de trabajo*/
 
+git add -A  /*Agregar todos los archivos en el espacio de trabajo y que se esten siguiendo*/
+
