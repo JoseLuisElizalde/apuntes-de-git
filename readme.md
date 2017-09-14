@@ -6,7 +6,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 Zona 1: Directorio de trabajo
 Zona 2: Área de preparación
 Zona 3: Directorio Git
-
+	
 ###Configurando GFit por primera vez
 
 git config --global user.name "JoseLuis" /*Configura nombre de usuario*/
@@ -46,4 +46,4 @@ git commit --amend  /*Cambiar mensaje en commit*/
 
 git log --oneline /*Muestra los commits en una línea*/
 
-	
+git commit -a -m  /*Se salta el área de preparación*/
