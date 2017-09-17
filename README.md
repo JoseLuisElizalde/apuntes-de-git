@@ -1,4 +1,4 @@
-### Curso Git 
+### Curso Git
 
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
@@ -6,15 +6,15 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 Zona 1: Directorio de trabajo
 Zona 2: Área de preparación
 Zona 3: Directorio Git
-	
-###Configurando GFit por primera vez
 
+###Configurando GFit por primera vez
+hola
 git config --global user.name "JoseLuis" /*Configura nombre de usuario*/
 git config --global user.email joseluis@example.com /*Configura email*/
 git config --global core.editor subl /**Configura editor de texto/
 git config --list /**/
- 
-###Curso Git desde cero 
+
+###Curso Git desde cero
 
 
 git init -- inicializar repositorio git
@@ -49,4 +49,3 @@ git log --oneline /*Muestra los commits en una línea*/
 git commit -a -m  /*Se salta el área de preparación*/
 
 git mv archivo archivo_renombrado   /*Renombrar archivos*/
-
