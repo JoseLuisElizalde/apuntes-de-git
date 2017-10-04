@@ -49,3 +49,6 @@ git log --oneline /*Muestra los commits en una línea*/
 git commit -a -m  /*Se salta el área de preparación*/
 
 git mv archivo archivo_renombrado   /*Renombrar archivos*/
+
+
+Esta línea fue creada en la rama master.
