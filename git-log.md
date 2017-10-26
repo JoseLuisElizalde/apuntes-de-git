@@ -18,3 +18,7 @@ Las banderas del comando 'got log' se pueden usar juntas según convenga, por ej
 'git log --oneline'
 
  Este comando nos muestra el historial en una sola línea por commit.
+
+ 'git log --oneline'
+
+ Este comando nos muestra el historial en una sola línea por commit 
