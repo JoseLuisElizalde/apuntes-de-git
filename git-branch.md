@@ -11,3 +11,12 @@ Si, si puedo.
 
 Las ramas nuevas que se crean apuntan al commit actual.
 >>>>>>> universo3
+
+
+### git branch --no-merged
+
+Nos muestra cuáles ramas no han sido fusionadas a la rama actual.
+
+### git branch --merged
+
+Nos muestra las ramas que han sido fusionadas a la rama actual.
